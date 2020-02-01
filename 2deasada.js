@@ -122,12 +122,12 @@ function logicaNube(){
 function saltar(){
     negroveloz.saltando = true;
     negroveloz.vy       = negroveloz.salto;
-   // console.log(negroveloz.y);
-    //if (negroveloz.y < 50) {
-     //   negroveloz.saltando = false;
-       // negroveloz.y = 300;
-        //alert('No haga trampa compaaaa');
-    //}
+    console.log(negroveloz.y);
+    if (negroveloz.y < 300) {
+        negroveloz.saltando = false;
+        negroveloz.y = 350;
+        alert('No haga trampa compaaaa');
+    }
 }
 
 function gravedad(){
