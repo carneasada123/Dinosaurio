@@ -10,3 +10,11 @@
  <canvas id="canvas" width="700" heigth="300"></canvas>
 </body>
 </html>
+dasd
+as
+dasdd
+sad
+sadds
+ad
+sadsa
+dasd
